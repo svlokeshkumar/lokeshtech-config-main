@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to LokeshTech accounts PROD related local APIs "
+  contactDetails:
+    name: "John Doe - PROD"
+    email: "john@lokeshtech.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
