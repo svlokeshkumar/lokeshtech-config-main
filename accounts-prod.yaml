@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to LokeshTech accounts PROD related local APIs "
+  message: "Welcome to LokeshTech accounts Production related local APIs "
   contactDetails:
-    name: "John Doe - PROD"
+    name: "John Doe - Production"
     email: "john@lokeshtech.com"
   onCallSupport:
     - (555) 555-1234
